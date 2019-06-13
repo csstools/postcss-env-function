@@ -2,8 +2,8 @@
 
 ### 3.0.0 (June 13, 2019)
 
+- Updated: `postcss-values-parser` to 3.0.4 (major)
 - Updated: `postcss` to 7.0.17 (patch)
-- Updated: `postcss-values-parser` to 2.0.1 (patch)
 
 ### 2.0.2 (September 20, 2018)
 
